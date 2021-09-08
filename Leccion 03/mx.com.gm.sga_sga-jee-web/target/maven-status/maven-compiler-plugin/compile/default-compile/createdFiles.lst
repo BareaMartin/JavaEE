@@ -1,0 +1,7 @@
+mx\com\gm\sga\servicio\PersonaServiceImpl.class
+mx\com\gm\sga\datos\PersonaDaoImpl.class
+mx\com\gm\sga\domain\Persona.class
+mx\com\gm\sga\web\PersonaServlet.class
+mx\com\gm\sga\datos\PersonaDAO.class
+mx\com\gm\sga\servicio\PersonaServiceRemote.class
+mx\com\gm\sga\servicio\PersonaService.class
